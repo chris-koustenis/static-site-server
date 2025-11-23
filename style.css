@@ -259,6 +259,17 @@ section p {
     font-size: 1rem;
 }
 
+.contact-item a {
+    color: #2563eb;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-item a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
 /* Footer */
 footer {
     background: #1f2937;
