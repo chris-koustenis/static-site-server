@@ -1,6 +1,6 @@
 # Static site server
 
-A simple, lightweight web server for serving static portfolio websites as solution to the project https://roadmap.sh/projects/static-site-server
+A simple, lightweight web server for serving static portfolio websites as solution to the projects https://roadmap.sh/projects/static-site-server and https://roadmap.sh/projects/ec2-instance
 
 ## Features
 
