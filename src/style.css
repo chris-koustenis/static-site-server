@@ -75,15 +75,17 @@ nav {
 .hero-content h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    font-weight: 300;
+    font-weight: bold;
+    color:aquamarine;
     animation: fadeInUp 1s ease 0.2s backwards;
 }
 
 .hero-content p {
-    font-size: 1.2rem;
+    font-style: italic;
     margin-bottom: 2rem;
-    opacity: 0.9;
+    color: azure;
     animation: fadeInUp 1s ease 0.4s backwards;
+
 }
 
 .cta-button {
